@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+
 <div align="center">
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Paré Léandre Bénilde</h1>
 <h4 align="center">A passionate full stack developer from Burkina Faso, see my <a href="" target="_blank">resume</a> for more</h4>
