@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Korosenei</h1>
 <h3 align="center">A passionate full stack developer from Burkina Faso</h3>
 
-<img src="https://www.google.com/search?q=coding+gif+images&rlz=1C1PNJJ_frBF1064BF1064&oq=coding+gif+i&gs_lcrp=EgZjaHJvbWUqCQgAEAAYExiABDIJCAAQABgTGIAEMgYIARBFGDkyCggCEAAYExgWGB4yCggDEAAYExgWGB4yCggEEAAYExgWGB4yCggFEAAYExgWGB4yCggGEAAYExgWGB4yCggHEAAYExgWGB4yCggIEAAYExgWGB4yCggJEAAYExgWGB6oAgCwAgA&sourceid=chrome&ie=UTF-8#vhid=dbrfb5dvHO4gVM&vssid=l">
+<img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korosenei&label=Profile%20views&color=0e75b6&style=flat" alt="korosenei" /> </p>
 
