@@ -51,3 +51,11 @@
   	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=korosenei&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
+
+<!-- GIF FOOTER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+------
