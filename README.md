@@ -145,17 +145,12 @@ These are some of the major technologies that I use or have worked on in the pas
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-<a href="https://github.com/Korosenei">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Korosenei&show_icons=true&locale=en" alt="korosenei" />
-  	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Korosenei&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
+# MY STATS (They are pathetics):
 
-<div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=Korosenei&theme=radical&show_icons=true" />
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korosenei&layout=compact&theme=radical" />
-</div>
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 <!-- GIF FOOTER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
