@@ -21,13 +21,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korosenei&label=Profile%20views&color=0e75b6&style=flat" alt="korosenei" /> </p>
 
-- 🔭 I’m currently working on **website development**
-
-- 🌱 I’m currently learning **Angular, Spring boot**
-
-- 💬 Ask me about **Angular**
-
-- 📫 How to reach me **leandrebenilde.frankenstein@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,9 +39,9 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 I’m currently working on **website development**
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently learning **Angular, Spring boot**
 
 - 🤝 I’m available for freelancing.
 
@@ -56,9 +49,9 @@
 
 - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Ask me about **Angular & Spring Boot**
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 How to reach me **leandrebenilde.frankenstein@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
