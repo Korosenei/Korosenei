@@ -114,8 +114,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konatama&show_icons=true&theme=tokyonight)](https://github.com/Konatama/github-readme-stats&show_icons=true&theme=tokyonight)
 
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Konatama&show_icons=true"/>
-<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kontama&layout=compact"/>
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Konatama&show_icons=true"/>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kontama&layout=compact"/>
 
 
 
