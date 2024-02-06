@@ -66,25 +66,46 @@
 - Programming Languages:
 	<p align="left">
 		  <a href="https://skillicons.dev">
-		    <img src="https://skillicons.dev/icons?i=ts,js,java,py,c" />
+		    <img src="https://skillicons.dev/icons?i=ts,js,java,py,c,dart" />
 		  </a>
 	</p>
 
-
+####
 - Libraries and Frameworks :
-	<p align="left">
-		  <a href="https://skillicons.dev">
-		    <img src="https://skillicons.dev/icons?i=angular,nodejs,bootstrap,sass,tailwind,materialui,spring,django" />
-		  </a>
-	</p>
-	<p align="left">
-		  <a href="https://skillicons.dev">
-		    <img src="https://skillicons.dev/icons?i=ts,js,java,py,c" />
-		  </a>
-	</p>
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+<p align="left">
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=angular,nodejs,bootstrap,sass,tailwind,materialui,spring,django,qt,flutter" />
+	</a>
+</p>
+<p align="left">
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=karma,cypress,jasmine,scikit_learn" />
+	</a>
+</p>
+
+####
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
+
+####
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+  </a>
+</p>
+
+####
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+  </a>
+</p>
 
 #### Tools:
 
@@ -92,6 +113,8 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+
+
 
 <br>
 
@@ -147,26 +170,7 @@ These are some of the major technologies that I use or have worked on in the pas
   </a>
 </p>
 
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-  </a>
-</p>
 
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
-  </a>
-</p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
-  </a>
-</p>
 
 <br/>
 
