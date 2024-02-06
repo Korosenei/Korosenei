@@ -111,6 +111,10 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 # MY STATS (They are pathetics):
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konatama)](https://github.com/Konatama/github-readme-stats)
+
+
 <div align="center">
 	
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
