@@ -114,6 +114,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konatama&show_icons=true)](https://github.com/Konatama/github-readme-stats&show_icons=true)
 
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Konatama"/>
+
 
 <div align="center">
 	
