@@ -116,6 +116,8 @@
 
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Konatama&show_icons=true&theme=dracula"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kontama)](https://github.com/Kontama/github-readme-stats)
+
 
 <div align="center">
 	
