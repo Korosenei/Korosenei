@@ -112,7 +112,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 # MY STATS (They are pathetics):
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konatama)](https://github.com/Konatama/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konatama&show_icons=true)](https://github.com/Konatama/github-readme-stats&show_icons=true)
 
 
 <div align="center">
