@@ -71,12 +71,12 @@
 - Libraries and Frameworks :
 <p align="left">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=angular,nodejs,bootstrap,sass,tailwind,materialui,spring,django,qt,flutter" />
+		<img src="https://skillicons.dev/icons?i=angular,nodejs,bootstrap,sass,tailwind,materialui" />
 	</a>
 </p>
 <p align="left">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=sklearn" />
+		<img src="https://skillicons.dev/icons?i=spring,django,qt,flutter,sklearn" />
 	</a>
 </p>
 
