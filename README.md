@@ -32,7 +32,7 @@
 
 - 📫 How to reach me **leandrebenilde.frankenstein@gmail.com**
 
-- 📄 Know about my experiences <a href="" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/Korosenei/mes_docs/blob/main/Leandre-Benilde-Pare_Resume-english.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
