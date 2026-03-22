@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **Angular & Spring Boot**
 
-- 📫 How to reach me **leandrebenilde07.com**
+- 📫 How to reach me **leandrebenilde07@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/Korosenei/About_me/blob/main/Leandre-Benilde-Pare_Resume-english.pdf" target="blank">Resume</a>
 <br/>
